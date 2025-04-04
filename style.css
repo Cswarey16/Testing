@@ -50,4 +50,8 @@ body {
   
     <script src="script.js"></script>
   </body>
-  </html>
+  </html>body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
